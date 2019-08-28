@@ -13,5 +13,4 @@ use Betitoglez\MongoDB\AbstractModel;
 class Geolocation extends AbstractModel
 {
 
-    protected $connection = 'mongodb';
 }
